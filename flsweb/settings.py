@@ -24,9 +24,9 @@ SECRET_KEY = '67$!o3u1@m7daz8lw2yo_6%d(#t4p#pk5r!+i%twsqal&ack=m'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost','https://www.fineleap.co.in','https://fineleap.onrender.com']
 
 # Application definition
 
